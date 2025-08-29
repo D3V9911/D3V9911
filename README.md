@@ -9,7 +9,7 @@
 - 🧩 Strong foundation in **DSA, OS, CN, DBMS**  
 - 💻 Skilled in **C, C++, Python, TypeScript, React.js, Node.js, Express.js, MongoDB, SQL**  
 - 📚 Solved **300+ DSA problems** on LeetCode & GeeksforGeeks  
-- 🌱 Currently learning **AI/ML** (Regression, Classification, Neural Networks)  
+- 🌱 Currently learning **AI/ML**  
 - ⚡ Passionate about **building scalable applications** and **real-world impactful projects**  
 
 ---
@@ -31,17 +31,17 @@
 
 ## 🚀 Projects
 
-### 🔹 [Brainly](https://github.com/yourusername/brainly)
+### 🔹 [Brainly](https://github.com/D3V9911/brainly)
 A **full-stack content organizer & sharing platform**  
 ✅ Built with **React, Node.js, Express, MongoDB**  
 ✅ Features **JWT Authentication** & secure content management  
 
-### 🔹 [Cashly](https://github.com/yourusername/cashly)
+### 🔹 [Cashly](https://github.com/D3V9911/cashly)
 A **secure money transfer API**  
 ✅ **Authentication & Authorization** using JWT  
 ✅ Ensures **transaction integrity & modular architecture**  
 
-### 🔹 [Voice-Activated Emergency Alert System](https://github.com/yourusername/emergency-alert)
+### 🔹 [Voice-Activated Emergency Alert System](https://github.com/D3V9911/emergency-alert)
 A **Raspberry Pi-based safety system**  
 ✅ **Voice-activated trigger** using Python & Google Speech API  
 ✅ Sends **real-time alerts with location tracking**  
