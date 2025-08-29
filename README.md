@@ -41,7 +41,7 @@ A **secure money transfer API**
 ✅ **Authentication & Authorization** using JWT  
 ✅ Ensures **transaction integrity & modular architecture**  
 
-### 🔹 [Voice-Activated Emergency Alert System](https://github.com/D3V9911/emergency-alert)
+### 🔹 [Voice-Activated Emergency Alert System](https://github.com/D3V9911/Voice-Activated-Alert-System)
 A **Raspberry Pi-based safety system**  
 ✅ **Voice-activated trigger** using Python & Google Speech API  
 ✅ Sends **real-time alerts with location tracking**  
